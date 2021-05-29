@@ -11,6 +11,9 @@ function App() {
         <Route path="/" exact>
           <Home />
         </Route>
+        <Route path="/ReactCricketQuiz/">
+          <Home />
+        </Route>
         <Route path="/quiz">
           <Quiz />
         </Route>
