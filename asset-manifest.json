@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/reactcricketquiz/static/css/main.6e66d367.chunk.css",
-    "main.js": "/reactcricketquiz/static/js/main.192fdeca.chunk.js",
-    "main.js.map": "/reactcricketquiz/static/js/main.192fdeca.chunk.js.map",
-    "runtime-main.js": "/reactcricketquiz/static/js/runtime-main.19732689.js",
-    "runtime-main.js.map": "/reactcricketquiz/static/js/runtime-main.19732689.js.map",
-    "static/js/2.0644bf61.chunk.js": "/reactcricketquiz/static/js/2.0644bf61.chunk.js",
-    "static/js/2.0644bf61.chunk.js.map": "/reactcricketquiz/static/js/2.0644bf61.chunk.js.map",
-    "static/js/3.c66e7c6e.chunk.js": "/reactcricketquiz/static/js/3.c66e7c6e.chunk.js",
-    "static/js/3.c66e7c6e.chunk.js.map": "/reactcricketquiz/static/js/3.c66e7c6e.chunk.js.map",
-    "index.html": "/reactcricketquiz/index.html",
-    "static/css/main.6e66d367.chunk.css.map": "/reactcricketquiz/static/css/main.6e66d367.chunk.css.map",
-    "static/js/2.0644bf61.chunk.js.LICENSE.txt": "/reactcricketquiz/static/js/2.0644bf61.chunk.js.LICENSE.txt"
+    "main.css": "/ReactCricketQuiz/static/css/main.6e66d367.chunk.css",
+    "main.js": "/ReactCricketQuiz/static/js/main.192fdeca.chunk.js",
+    "main.js.map": "/ReactCricketQuiz/static/js/main.192fdeca.chunk.js.map",
+    "runtime-main.js": "/ReactCricketQuiz/static/js/runtime-main.2a1710e8.js",
+    "runtime-main.js.map": "/ReactCricketQuiz/static/js/runtime-main.2a1710e8.js.map",
+    "static/js/2.91e5991f.chunk.js": "/ReactCricketQuiz/static/js/2.91e5991f.chunk.js",
+    "static/js/2.91e5991f.chunk.js.map": "/ReactCricketQuiz/static/js/2.91e5991f.chunk.js.map",
+    "static/js/3.c66e7c6e.chunk.js": "/ReactCricketQuiz/static/js/3.c66e7c6e.chunk.js",
+    "static/js/3.c66e7c6e.chunk.js.map": "/ReactCricketQuiz/static/js/3.c66e7c6e.chunk.js.map",
+    "index.html": "/ReactCricketQuiz/index.html",
+    "static/css/main.6e66d367.chunk.css.map": "/ReactCricketQuiz/static/css/main.6e66d367.chunk.css.map",
+    "static/js/2.91e5991f.chunk.js.LICENSE.txt": "/ReactCricketQuiz/static/js/2.91e5991f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.19732689.js",
-    "static/js/2.0644bf61.chunk.js",
+    "static/js/runtime-main.2a1710e8.js",
+    "static/js/2.91e5991f.chunk.js",
     "static/css/main.6e66d367.chunk.css",
     "static/js/main.192fdeca.chunk.js"
   ]
