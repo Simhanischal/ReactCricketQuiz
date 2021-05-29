@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/ReactCricketQuiz/static/css/main.6e66d367.chunk.css",
-    "main.js": "/ReactCricketQuiz/static/js/main.192fdeca.chunk.js",
-    "main.js.map": "/ReactCricketQuiz/static/js/main.192fdeca.chunk.js.map",
+    "main.js": "/ReactCricketQuiz/static/js/main.ee87572a.chunk.js",
+    "main.js.map": "/ReactCricketQuiz/static/js/main.ee87572a.chunk.js.map",
     "runtime-main.js": "/ReactCricketQuiz/static/js/runtime-main.2a1710e8.js",
     "runtime-main.js.map": "/ReactCricketQuiz/static/js/runtime-main.2a1710e8.js.map",
     "static/js/2.91e5991f.chunk.js": "/ReactCricketQuiz/static/js/2.91e5991f.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.2a1710e8.js",
     "static/js/2.91e5991f.chunk.js",
     "static/css/main.6e66d367.chunk.css",
-    "static/js/main.192fdeca.chunk.js"
+    "static/js/main.ee87572a.chunk.js"
   ]
 }
